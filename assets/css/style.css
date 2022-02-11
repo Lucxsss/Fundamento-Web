@@ -23,12 +23,12 @@
 
  #menu li a {
     text-decoration: none;
-    color: black;
+    color: rgb(0, 0, 0);
     font-size: 20px;
  }
 
  #menu li a:hover {
-        color: grey;
+        color: rgb(67, 35, 182);
  }
 
  .p-30 {
@@ -51,9 +51,55 @@
 }
 
 
+#button{
+    display: inline-block;
+    background-color: #F25A70;
+    width: 60px;
+    line-height: 60px;
+    padding-left:  20px; 
+    padding-right: 20px; 
+    box-shadow: 5px 5px 3px black;
+    border-radius:10px;
+  
+
+}
+
+
+#button{
+    display: inline-block;
+    background-color: #F25A70;
+    width: 60px;
+    line-height: 60px;
+    padding-left:  20px; 
+    padding-right: 20px; 
+    box-shadow: 5px 5px 3px black;
+    border-radius:10px;
+  
+
+}
+
+
 /*Estilos da pagina contato.html*/
 
 .ml-50 {
 
     margin-left: 50px;
 }
+
+
+#button{
+    display: inline-block;
+    background-color: #F25A70;
+    width: 60px;
+    line-height: 60px;
+    padding-left:  20px; 
+    padding-right: 20px; 
+    box-shadow: 5px 5px 3px black;
+    border-radius:10px;
+  
+
+}
+
+
+
+    
